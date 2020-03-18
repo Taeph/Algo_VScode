@@ -10,8 +10,18 @@ using namespace std;
 
 int main() {
     int a,b;
+    string s;
     while(1) {
-        cin >> a >> b;
-        cout << a + b << endl;
-    }
+        getline(cin, s);
+        cout << s << endl;
+        
+        if(s == "") {
+            break;
+        } else {
+            char c1 = s[0];
+            char c2 = s[2];
+
+            cout << c1 + c2 << endl;
+        }
+    }    
 }
