@@ -12,8 +12,8 @@ Other (그냥 푼것)
 
 
 > 2020.03.18(수)
-- [BaekJoon10815 (숫자 카드)](https://www.acmicpc.net/problem/10815) - [미해결 - 시간초과](Baekjoon10815.cpp) <br>
-- [BaekJoon1920 (수 찾기)](https://www.acmicpc.net/problem/1920) - [미해결 - 시간초과](Baekjoon1920.cpp) <br>
+- [BaekJoon10815 (숫자 카드)](https://www.acmicpc.net/problem/10815) - [미해결(시간초과)](Baekjoon10815.cpp) <br>
+- [BaekJoon1920 (수 찾기)](https://www.acmicpc.net/problem/1920) - [미해결(시간초과)](Baekjoon1920.cpp) <br>
 
 Brute Force (완전탐색알고리즘)
 --------------------------------------------
