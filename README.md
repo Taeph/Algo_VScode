@@ -15,6 +15,9 @@ Other (그냥 푼것)
 - [BaekJoon10815 (숫자 카드)](https://www.acmicpc.net/problem/10815) - [미해결(시간초과)](Baekjoon10815.cpp) <br>
 - [BaekJoon1920 (수 찾기)](https://www.acmicpc.net/problem/1920) - [미해결(시간초과)](Baekjoon1920.cpp) <br>
 
+> 2020.03.18(수)
+- [BaekJoon1934 (최소공배수)](https://www.acmicpc.net/problem/1934) - [해결](Pass/Baekjoon1934.cpp) <br>
+
 Brute Force (완전탐색알고리즘)
 --------------------------------------------
 > 2019.12.23(월) 
