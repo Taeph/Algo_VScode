@@ -3,6 +3,12 @@
 
 // 원래는 해시맵을 써서 푸는 문제인거 같은데....
 
+// 궁금증 
+// 왜 이렇게 slice 이후 sort를 하면 통과를 하는데,
+// let pTemp = participant.sort();
+// let cTemp = completion.sort(); 
+// 위의 형태로 바로 해서 똑같은 로직을 수행하면, 효율성 1개가 틀릴까?
+
 var participant1 = ['leo', 'kiki', 'eden'];
 var participant2 = ['marina', 'josipa', 'nikola', 'vinko', 'filipa'];
 var participant3 = ['mislav', 'stanko', 'mislav', 'ana'];
@@ -24,12 +30,15 @@ console.log(solution(participant4, completion4));
 // 다른 문자열이 나오는 곳이 참가자배열에는 있지만, 완주자배열에는 없는값 즉, 완주하지 못한 선수이다
 function solution_OK(participant, completion) {
     let answer = '';
-    let pTemp = participant.sort();
-    let cTemp = completion.sort();
+    let pTemp = participant.slice();
+    let cTemp = completion.slice();
+
+    let pArr = pTemp.sort();
+    let cArr = cTemp.sort();
 
     for(i in pTemp) {
-        if(pTemp[i] != cTemp[i]) {
-            answer = a[i];
+        if(pArr[i] != cArr[i]) {
+            answer = pArr[i];
             break;
         }
     }
