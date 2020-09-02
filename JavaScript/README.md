@@ -7,3 +7,6 @@ Programmers - level1
 
 > 2020.08.31 (월)
 - [모의고사](https://www.welcomekakao.com/learn/courses/30/lessons/42840) - [미해결](pro42840.js) </br>
+
+> 2020.09.03 (수)
+- [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) - [해결](pro42576.js) </br>
