@@ -22,7 +22,14 @@ Programmers - level1
 
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - [해결](pro12910.js) </br>
 
-
 > 2020.09.08 )화)
+
+- [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [해결](pro12915.js) </br>
+
+- [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) - [해결](pro12916.js) </br>
+
+- [문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917) - [해결](pro12917.js) </br>
+
+- [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) - [해결](pro12918.js) </br>
 
 > 2020.09.09 (수)
