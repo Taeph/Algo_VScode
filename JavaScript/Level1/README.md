@@ -11,6 +11,11 @@ Programmers - level1
 > 2020.09.03 (수)
 - [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) - [해결](pro42576.js) </br>
 
+> 2020.09.04 (목)
+- [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - [해결](pro42862.js) </br>
+
+- [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) - [해결](pro42748.js) </br>
+
 > 2020.09.07 (월)
 - [2016](https://programmers.co.kr/learn/courses/30/lessons/12901) - [해결](pro12901.js) </br>
 
@@ -18,9 +23,9 @@ Programmers - level1
 
 - [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) - [해결](pro12906.js) </br>
 
-- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [미해결](pro12912.js) </br>
-
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - [해결](pro12910.js) </br>
+
+- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [미해결](pro12912.js) </br>
 
 > 2020.09.08 (화)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [해결](pro12915.js) </br>
@@ -67,3 +72,20 @@ Programmers - level1
 - [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) - [해결](pro12944.js) </br>
 
 - [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) - [해결](pro12947.js) </br>
+
+> 2020.09.10 (목)
+- [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) - [해결](pro12948.js) </br>
+
+- [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) - [해결](pro12950.js) </br>
+
+- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) - [미해결](pro12954.js) </br>
+
+- [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) - [해결](pro12969.js) </br>
+
+- [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) - [해결](pro12982.js) </br>
+
+- [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) - [해결](pro17681.js) </br>
+
+- [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - [해결](pro42889.js) </br>
+
+- [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) - [미해결](pro17682.js) </br>
