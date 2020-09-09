@@ -22,8 +22,7 @@ Programmers - level1
 
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - [해결](pro12910.js) </br>
 
-> 2020.09.08 )화)
-
+> 2020.09.08 (화)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [해결](pro12915.js) </br>
 
 - [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) - [해결](pro12916.js) </br>
@@ -33,3 +32,38 @@ Programmers - level1
 - [문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) - [해결](pro12918.js) </br>
 
 > 2020.09.09 (수)
+- [서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) - [해결](pro12919.js) </br>
+
+- [소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921) - [미해결](pro12921.js) </br>
+
+- [수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) - [해결](pro12922.js) </br>
+
+- [문자열 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) - [해결](pro12925.js) </br>
+
+- [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [미해결](pro12926.js) </br>
+
+- [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) - [해결](pro12928.js) </br>
+
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - [해결](pro12930.js) </br>
+
+- [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) - [해결](pro12931.js) </br>
+
+- [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932) - [해결](pro12932.js) </br>
+
+- [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) - [해결](pro12933.js) </br>
+
+- [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) - [해결](pro12934.js) </br>
+
+- [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) - [해결](pro12935.js) </br>
+
+- [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) - [해결](pro12937.js) </br>
+
+- [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) - [해결](pro67256.js) </br>
+
+- [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) - [해결](pro12940.js) </br>
+
+- [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) - [해결](pro12943.js) </br>
+
+- [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) - [해결](pro12944.js) </br>
+
+- [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) - [해결](pro12947.js) </br>
