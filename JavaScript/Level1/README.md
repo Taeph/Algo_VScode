@@ -25,7 +25,7 @@ Programmers - level1
 
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - [해결](pro12910.js) </br>
 
-- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [미해결](pro12912.js) </br>
+- <del>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [미해결](pro12912.js)</del> </br>
 
 > 2020.09.08 (화)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [해결](pro12915.js) </br>
@@ -45,7 +45,7 @@ Programmers - level1
 
 - [문자열 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) - [해결](pro12925.js) </br>
 
-- [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [미해결](pro12926.js) </br>
+- [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [해결](pro12926.js) </br>
 
 - [약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928) - [해결](pro12928.js) </br>
 
@@ -78,7 +78,7 @@ Programmers - level1
 
 - [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) - [해결](pro12950.js) </br>
 
-- [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) - [미해결](pro12954.js) </br>
+- <del>[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) - [미해결](pro12954.js)</del> </br>
 
 - [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) - [해결](pro12969.js) </br>
 
