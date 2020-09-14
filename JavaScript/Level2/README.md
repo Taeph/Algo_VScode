@@ -13,6 +13,6 @@ Programmers - level2
 
 - [기능개발](https://www.welcomekakao.com/learn/courses/30/lessons/42586) - [해결](pro42586.js) </br>
 
-
-
+> 2020.09.14 (월)
+- [올바른 괄호](https://www.welcomekakao.com/learn/courses/30/lessons/12909) - [해결](pro12909.js) </br>
 
