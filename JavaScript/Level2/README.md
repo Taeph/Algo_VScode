@@ -22,3 +22,5 @@ Programmers - level2
 > 2020.09.16 (화)
 - [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [해결](pro42842.js) </br>
 
+- [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [해결](pro42578.js) </br>
+
