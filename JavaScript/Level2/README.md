@@ -18,3 +18,7 @@ Programmers - level2
 
 > 2020.09.15 (화)
 - [H-index](https://www.welcomekakao.com/learn/courses/30/lessons/42747) - [해결](pro42747.js) </br>
+
+> 2020.09.16 (화)
+- [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [해결](pro42842.js) </br>
+
