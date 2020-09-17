@@ -7,6 +7,7 @@ console.log(solution(-10,-5));
 console.log(solution(1,1));
 
 // 이상한 것 같음... 4,7,9번 테스트케이스 실패 (자바스크립트)
+// 2020.09.17 - 프로그래머스 채점 문제로 수정됨 (완료)
 function solution(a, b) {
     var answer = 0;
 
