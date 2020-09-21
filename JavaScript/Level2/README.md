@@ -24,3 +24,8 @@ Programmers - level2
 
 > 2020.09.17 (수)
 - [다리를 지나는 트럭](https://www.welcomekakao.com/learn/courses/30/lessons/42583) - [해결](pro42583.js) </br>
+
+> 2020.09.21 (월)
+- [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - [해결](pro42746.js) </br>
+
+- [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - [해결](pro12899.js) </br>

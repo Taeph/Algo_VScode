@@ -25,7 +25,7 @@ Programmers - level1
 
 - [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) - [해결](pro12910.js) </br>
 
-- <del>[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [미해결](pro12912.js)</del> </br>
+- [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912) - [해결](pro12912.js) </br>
 
 > 2020.09.08 (화)
 - [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [해결](pro12915.js) </br>
@@ -89,3 +89,6 @@ Programmers - level1
 - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) - [해결](pro42889.js) </br>
 
 - [다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) - [미해결](pro17682.js) </br>
+
+> 2020.09.17 (목)
+- [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) - [해결](pro68644.js) </br>
