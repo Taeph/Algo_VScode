@@ -29,3 +29,6 @@ Programmers - level2
 - [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) - [해결](pro42746.js) </br>
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - [해결](pro12899.js) </br>
+
+> 2020.09.22 (화)
+- [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [해결](pro43165.js) </br>
