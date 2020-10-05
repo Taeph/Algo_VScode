@@ -35,3 +35,9 @@ Programmers - level2
 
 > 2020.10.05 (월)
 - [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - [해결](pro12911.js) </br>
+
+- [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) - [해결](pro1845.js) </br>
+
+- [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) - [해결](pro12939.js) </br>
+
+- [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) - [해결](pro12941.js) </br>
