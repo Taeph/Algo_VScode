@@ -32,3 +32,6 @@ Programmers - level2
 
 > 2020.09.22 (화)
 - [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [해결](pro43165.js) </br>
+
+> 2020.10.05 (월)
+- [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - [해결](pro12911.js) </br>
