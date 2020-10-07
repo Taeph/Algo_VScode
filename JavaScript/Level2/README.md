@@ -41,3 +41,6 @@ Programmers - level2
 - [최대값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) - [해결](pro12939.js) </br>
 
 - [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) - [해결](pro12941.js) </br>
+
+> 2020.10.07 (수)
+- [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [해결](pro17677.js) </br>
