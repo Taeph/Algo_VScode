@@ -44,3 +44,6 @@ Programmers - level2
 
 > 2020.10.07 (수)
 - [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [해결](pro17677.js) </br>
+
+> 2020.10.08 (수)
+- [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) - [해결](pro12945.js) </br>
